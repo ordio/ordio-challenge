@@ -24,9 +24,9 @@ Shift data is retrieved from the Ordio API:
 
 1. **Regular working hours:** All hours are compensated at the base hourly rate (15 EUR).
 
-2. **Night surcharge:** For work between 20:00 and 00:00, a surcharge of 2 EUR per hour is added (on top of the base hourly rate).
+2. **Night surcharge:** For work between 20:00 and 00:00, a surcharge of 2 EUR per hour is added (on top of the base hourly rate). **Note:** Night surcharge is only paid on non-holiday days.
 
-3. **Holiday surcharge:** On public holidays, the hourly rate is multiplied by 150% (22.50 EUR instead of 15 EUR).
+3. **Holiday surcharge:** On public holidays, the hourly rate is multiplied by 150% (22.50 EUR instead of 15 EUR). Night surcharge does not apply on holidays.
 
 ### Public Holidays December 2025
 
